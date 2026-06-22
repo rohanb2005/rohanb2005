@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=header&text=Rohan%20Bhavsar&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=60&descAlign=50" />
 
 <!-- Dynamic Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Full+Stack+Developer;💻+Problem+Solver;🎯+DSA+Enthusiast;🌟+Building+Amazing+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Data+Analytics;💻+ML+Engineer;🎯+Data+Scientist;🌟+Building+Amazing+Projects)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=rohanb2005&label=Profile%20views&color=4ECDC4&style=for-the-badge&labelColor=1a1b27" alt="Profile Views" />
 
